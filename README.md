@@ -7,6 +7,8 @@ This repository is for sharing the database information used for POELevellingPla
 
 Hopefully other developers will be able to use this for their own purposes.
 
+Shows: Gem Name, Cost, Color, Class Quest Reward, Class Vendor Reward
+
 NOTES:
 
 - Only Patches from 3.20 Onwards will be listed here
