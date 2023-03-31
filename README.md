@@ -3,7 +3,7 @@
 
 
 
-This repository is for sharing the database information used for POELevellingPlanner.com. The information will distributed via SQL, JSON, and CSV. 
+This repository is for sharing the database information used for [POELevellingPlanner](https://POELevellingPlanner.com). The information will distributed via SQL, JSON, and CSV. 
 
 Hopefully other developers will be able to use this for their own purposes.
 
