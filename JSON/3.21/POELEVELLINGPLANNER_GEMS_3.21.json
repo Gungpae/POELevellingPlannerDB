@@ -235,10 +235,7 @@
 {"gemid":"303","classid":"3","questid":"115"},
 {"gemid":"304","classid":"3","questid":"115"},
 {"gemid":"311","classid":"3","questid":"115"},
-{"gemid":"313","classid":"3","questid":"115"},
-{"gemid":"314","classid":"3","questid":"115"},
 {"gemid":"180","classid":"3","questid":"115"},
-{"gemid":"317","classid":"3","questid":"115"},
 {"gemid":"41","classid":"4","questid":"115"},
 {"gemid":"169","classid":"4","questid":"115"},
 {"gemid":"173","classid":"4","questid":"115"},
@@ -3014,18 +3011,18 @@
 {"gemid":"192","classid":"5","questid":"313"},
 {"gemid":"192","classid":"6","questid":"212"},
 {"gemid":"192","classid":"6","questid":"313"},
+{"gemid":"193","classid":"0","questid":"114"},
 {"gemid":"193","classid":"0","questid":"313"},
-{"gemid":"193","classid":"0","questid":"1145"},
+{"gemid":"193","classid":"1","questid":"114"},
 {"gemid":"193","classid":"1","questid":"313"},
-{"gemid":"193","classid":"1","questid":"1145"},
+{"gemid":"193","classid":"2","questid":"114"},
 {"gemid":"193","classid":"2","questid":"313"},
-{"gemid":"193","classid":"2","questid":"1145"},
 {"gemid":"193","classid":"3","questid":"313"},
+{"gemid":"193","classid":"4","questid":"114"},
 {"gemid":"193","classid":"4","questid":"313"},
-{"gemid":"193","classid":"4","questid":"1145"},
 {"gemid":"193","classid":"5","questid":"313"},
+{"gemid":"193","classid":"6","questid":"114"},
 {"gemid":"193","classid":"6","questid":"313"},
-{"gemid":"193","classid":"6","questid":"1145"},
 {"gemid":"194","classid":"0","questid":"212"},
 {"gemid":"194","classid":"0","questid":"313"},
 {"gemid":"194","classid":"1","questid":"313"},
@@ -4996,6 +4993,25 @@
 {"gemid":"426","classid":"2","questid":"411"},
 {"gemid":"426","classid":"4","questid":"411"},
 {"gemid":"426","classid":"6","questid":"411"}
+]
+}
+,{"type":"table","name":"Quest","data":
+[
+{"questid":"111","name":"Enemy at the Gate"},
+{"questid":"112","name":"Mercy Mission"},
+{"questid":"113","name":"Breaking Some Eggs"},
+{"questid":"1145","name":"The Caged Brute 2"},
+{"questid":"115","name":"The Sirens Cadence"},
+{"questid":"211","name":"Intruders in Black"},
+{"questid":"212","name":"Sharp and Cruel"},
+{"questid":"213","name":"The Root of the Problem"},
+{"questid":"311","name":"Lost in Love"},
+{"questid":"312","name":"Sever the Right Hand"},
+{"questid":"313","name":"A Fixture of Fate"},
+{"questid":"411","name":"Breaking the Seal"},
+{"questid":"412","name":"The Eternal Nightmare"},
+{"questid":"1135","name":"Breaking Some Eggs 2"},
+{"questid":"114","name":"The Caged Brute"}
 ]
 }
 ]
