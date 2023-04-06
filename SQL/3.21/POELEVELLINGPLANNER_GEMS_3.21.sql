@@ -1,10 +1,4 @@
 
--- --------------------------------------------------------
-
---
--- Table structure for table `Class`
---
-
 CREATE TABLE `Class` (
   `classid` bigint(20) NOT NULL,
   `classname` varchar(255) NOT NULL
@@ -263,10 +257,7 @@ INSERT INTO `GemReward` (`gemid`, `classid`, `questid`) VALUES
 (303, 3, 115),
 (304, 3, 115),
 (311, 3, 115),
-(313, 3, 115),
-(314, 3, 115),
 (180, 3, 115),
-(317, 3, 115),
 (41, 4, 115),
 (169, 4, 115),
 (173, 4, 115),
@@ -3072,18 +3063,18 @@ INSERT INTO `GemsVendor` (`gemid`, `classid`, `questid`) VALUES
 (192, 5, 313),
 (192, 6, 212),
 (192, 6, 313),
+(193, 0, 114),
 (193, 0, 313),
-(193, 0, 1145),
+(193, 1, 114),
 (193, 1, 313),
-(193, 1, 1145),
+(193, 2, 114),
 (193, 2, 313),
-(193, 2, 1145),
 (193, 3, 313),
+(193, 4, 114),
 (193, 4, 313),
-(193, 4, 1145),
 (193, 5, 313),
+(193, 6, 114),
 (193, 6, 313),
-(193, 6, 1145),
 (194, 0, 212),
 (194, 0, 313),
 (194, 1, 313),
@@ -5055,6 +5046,38 @@ INSERT INTO `GemsVendor` (`gemid`, `classid`, `questid`) VALUES
 (426, 4, 411),
 (426, 6, 411);
 
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `Quest`
+--
+
+CREATE TABLE `Quest` (
+  `questid` varchar(255) NOT NULL,
+  `name` varchar(255) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+
+--
+-- Dumping data for table `Quest`
+--
+
+INSERT INTO `Quest` (`questid`, `name`) VALUES
+('111', 'Enemy at the Gate'),
+('112', 'Mercy Mission'),
+('113', 'Breaking Some Eggs'),
+('1145', 'The Caged Brute 2'),
+('115', 'The Sirens Cadence'),
+('211', 'Intruders in Black'),
+('212', 'Sharp and Cruel'),
+('213', 'The Root of the Problem'),
+('311', 'Lost in Love'),
+('312', 'Sever the Right Hand'),
+('313', 'A Fixture of Fate'),
+('411', 'Breaking the Seal'),
+('412', 'The Eternal Nightmare'),
+('1135', 'Breaking Some Eggs 2'),
+('114', 'The Caged Brute');
+
 --
 -- Indexes for dumped tables
 --
@@ -5088,5 +5111,12 @@ ALTER TABLE `GemsVendor`
   ADD PRIMARY KEY (`gemid`,`classid`,`questid`) USING BTREE,
   ADD KEY `GemsVendor_fk1` (`classid`),
   ADD KEY `GemsVendor_fk2` (`questid`);
+
+--
+-- Indexes for table `Quest`
+--
+ALTER TABLE `Quest`
+  ADD PRIMARY KEY (`questid`),
+  ADD UNIQUE KEY `name` (`name`);
 COMMIT;
 
