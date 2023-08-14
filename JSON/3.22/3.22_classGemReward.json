@@ -1,0 +1,6581 @@
+[
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 264,
+		"gemName" : "Lightning Tendrils",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 7,
+		"gemName" : "Molten Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 134,
+		"gemName" : "Split Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 135,
+		"gemName" : "Splitting Steel",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 138,
+		"gemName" : "Bear Trap",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 139,
+		"gemName" : "Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 15,
+		"gemName" : "Decoy Totem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 273,
+		"gemName" : "Frost Bomb",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 275,
+		"gemName" : "Frostblink",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 21,
+		"gemName" : "Steelskin",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 22,
+		"gemName" : "Vigilant Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 12,
+		"gemName" : "Ancestral Call Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 256,
+		"gemName" : "Arcane Surge Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 1,
+		"gemName" : "Chance to Bleed Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 121,
+		"gemName" : "Chance to Poison Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 258,
+		"gemName" : "Elemental Proliferation Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 132,
+		"gemName" : "Pierce Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 9,
+		"gemName" : "Ruthless Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 278,
+		"gemName" : "Spell Cascade Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 280,
+		"gemName" : "Summon Phantasm Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 146,
+		"gemName" : "Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 147,
+		"gemName" : "Added Cold Damage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 24,
+		"gemName" : "Added Fire Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 282,
+		"gemName" : "Added Lightning Damage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 156,
+		"gemName" : "Blink Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 292,
+		"gemName" : "Flame Dash",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 36,
+		"gemName" : "Leap Slam",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 152,
+		"gemName" : "Lesser Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 29,
+		"gemName" : "Lifetap Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 31,
+		"gemName" : "Melee Splash Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 289,
+		"gemName" : "Unbound Ailments Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 163,
+		"gemName" : "Withering Step",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 166,
+		"gemName" : "Blade Vortex",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 304,
+		"gemName" : "Ice Nova",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 173,
+		"gemName" : "Rain of Arrows",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 311,
+		"gemName" : "Scorching Ray",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 45,
+		"gemName" : "Static Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 314,
+		"gemName" : "Storm Burst",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 181,
+		"gemName" : "Arctic Armour",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 186,
+		"gemName" : "Frenzy",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 52,
+		"gemName" : "Herald of Ash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 188,
+		"gemName" : "Herald of Ice",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 322,
+		"gemName" : "Herald of Thunder",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 327,
+		"gemName" : "Concentrated Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 192,
+		"gemName" : "Deadly Ailments Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 59,
+		"gemName" : "Elemental Damage with Attacks Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 193,
+		"gemName" : "Faster Attacks Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 330,
+		"gemName" : "Faster Casting Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 63,
+		"gemName" : "Melee Physical Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 197,
+		"gemName" : "Vicious Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 66,
+		"gemName" : "Anger",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 339,
+		"gemName" : "Bane",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 340,
+		"gemName" : "Conductivity",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 347,
+		"gemName" : "Flammability",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 348,
+		"gemName" : "Frostbite",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 200,
+		"gemName" : "Hatred",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 349,
+		"gemName" : "Malevolence",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 72,
+		"gemName" : "Petrified Blood",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 205,
+		"gemName" : "Temporal Chains",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 353,
+		"gemName" : "Wrath",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 354,
+		"gemName" : "Zealotry",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 434,
+		"gemName" : "Sadism Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 207,
+		"gemName" : "Blade Flurry",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 208,
+		"gemName" : "Bladefall",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 210,
+		"gemName" : "Charged Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 212,
+		"gemName" : "Cyclone",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 360,
+		"gemName" : "Divine Ire",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 363,
+		"gemName" : "Flameblast",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 89,
+		"gemName" : "Reap",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 372,
+		"gemName" : "Soulrend",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 91,
+		"gemName" : "Tectonic Slam",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 223,
+		"gemName" : "Tornado Shot",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 92,
+		"gemName" : "Arrogance Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 93,
+		"gemName" : "Bloodthirst Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 227,
+		"gemName" : "Cold Penetration Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 383,
+		"gemName" : "Energy Leech Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 96,
+		"gemName" : "Fire Penetration Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 97,
+		"gemName" : "Fortify Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 233,
+		"gemName" : "Ice Bite Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 387,
+		"gemName" : "Innervate Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 388,
+		"gemName" : "Intensify Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 102,
+		"gemName" : "Life Leech Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 390,
+		"gemName" : "Lightning Penetration Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 399,
+		"gemName" : "Summon Carrion Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 400,
+		"gemName" : "Summon Chaos Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 109,
+		"gemName" : "Summon Flame Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 242,
+		"gemName" : "Summon Ice Golem",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 401,
+		"gemName" : "Summon Lightning Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 110,
+		"gemName" : "Summon Stone Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 246,
+		"gemName" : "Barrage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 249,
+		"gemName" : "Chain Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 407,
+		"gemName" : "Decay Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 251,
+		"gemName" : "Greater Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 252,
+		"gemName" : "Greater Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 410,
+		"gemName" : "Immolate Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 411,
+		"gemName" : "Increased Area of Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 118,
+		"gemName" : "Multistrike Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 413,
+		"gemName" : "Spell Echo Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 414,
+		"gemName" : "Unleash Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 57,
+		"gemName" : "Cruelty Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 49,
+		"gemName" : "Corrupting Fever",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 106,
+		"gemName" : "Flame Link",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 398,
+		"gemName" : "Soul Link",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 240,
+		"gemName" : "Intuitive Link",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 402,
+		"gemName" : "Void Sphere",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 395,
+		"gemName" : "Frost Shield",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 177,
+		"gemName" : "Spectral Helix",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 98,
+		"gemName" : "Generosity Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 225,
+		"gemName" : "Advanced Traps Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 436,
+		"gemName" : "Frigid Bond Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 0,
+		"className" : "Scion",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 433,
+		"gemName" : "Returning Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 5,
+		"gemName" : "Ground Slam",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 7,
+		"gemName" : "Molten Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 13,
+		"gemName" : "Ancestral Protector",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 15,
+		"gemName" : "Decoy Totem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 18,
+		"gemName" : "Molten Shell",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 21,
+		"gemName" : "Steelskin",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 22,
+		"gemName" : "Vigilant Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 12,
+		"gemName" : "Ancestral Call Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 1,
+		"gemName" : "Chance to Bleed Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 423,
+		"gemName" : "Momentum Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 24,
+		"gemName" : "Added Fire Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 34,
+		"gemName" : "Enduring Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 35,
+		"gemName" : "Intimidating Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 36,
+		"gemName" : "Leap Slam",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 29,
+		"gemName" : "Lifetap Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 31,
+		"gemName" : "Melee Splash Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 37,
+		"gemName" : "Shield Charge",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 38,
+		"gemName" : "Vitality",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 40,
+		"gemName" : "Chain Hook",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 41,
+		"gemName" : "Earthshatter",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 43,
+		"gemName" : "Infernal Blow",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 45,
+		"gemName" : "Static Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 46,
+		"gemName" : "Sunder",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 47,
+		"gemName" : "Sweep",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 431,
+		"gemName" : "Flamewood Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 48,
+		"gemName" : "Ancestral Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 52,
+		"gemName" : "Herald of Ash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 188,
+		"gemName" : "Herald of Ice",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 322,
+		"gemName" : "Herald of Thunder",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 54,
+		"gemName" : "Seismic Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 190,
+		"gemName" : "Close Combat Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 59,
+		"gemName" : "Elemental Damage with Attacks Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 63,
+		"gemName" : "Melee Physical Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 64,
+		"gemName" : "Rage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 65,
+		"gemName" : "Shockwave Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 193,
+		"gemName" : "Faster Attacks Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 66,
+		"gemName" : "Anger",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 68,
+		"gemName" : "Determination",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 70,
+		"gemName" : "Generals Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 71,
+		"gemName" : "Infernal Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 73,
+		"gemName" : "Pride",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 74,
+		"gemName" : "Punishment",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 77,
+		"gemName" : "Vengeance",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 78,
+		"gemName" : "Vulnerability",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 79,
+		"gemName" : "Warlords Mark",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 88,
+		"gemName" : "Rage Vortex",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 80,
+		"gemName" : "Ancestral Warchief",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 212,
+		"gemName" : "Cyclone",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 86,
+		"gemName" : "Earthquake",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 87,
+		"gemName" : "Ice Crash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 91,
+		"gemName" : "Tectonic Slam",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 92,
+		"gemName" : "Arrogance Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 93,
+		"gemName" : "Bloodthirst Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 97,
+		"gemName" : "Fortify Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 234,
+		"gemName" : "Impale Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 99,
+		"gemName" : "Increased Duration Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 102,
+		"gemName" : "Life Leech Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 103,
+		"gemName" : "Pulverise Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 104,
+		"gemName" : "Urgent Orders Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 105,
+		"gemName" : "Berserk",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 400,
+		"gemName" : "Summon Chaos Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 109,
+		"gemName" : "Summon Flame Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 242,
+		"gemName" : "Summon Ice Golem",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 401,
+		"gemName" : "Summon Lightning Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 110,
+		"gemName" : "Summon Stone Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 112,
+		"gemName" : "Brutality Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 249,
+		"gemName" : "Chain Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 116,
+		"gemName" : "Fist of War Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 251,
+		"gemName" : "Greater Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 411,
+		"gemName" : "Increased Area of Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 117,
+		"gemName" : "Multiple Totems Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 118,
+		"gemName" : "Multistrike Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 413,
+		"gemName" : "Spell Echo Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 419,
+		"gemName" : "Volcanic Fissure",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 57,
+		"gemName" : "Cruelty Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 49,
+		"gemName" : "Corrupting Fever",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 111,
+		"gemName" : "Behead Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 115,
+		"gemName" : "Eternal Blessing Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 98,
+		"gemName" : "Generosity Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 10,
+		"gemName" : "Shield Crush",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 72,
+		"gemName" : "Petrified Blood",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 430,
+		"gemName" : "Volatility Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 427,
+		"gemName" : "Controlled Blaze Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 428,
+		"gemName" : "Corrupting Cry Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 1,
+		"className" : "Marauder",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 429,
+		"gemName" : "Trauma Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 120,
+		"gemName" : "Caustic Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 128,
+		"gemName" : "Frost Blades",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 129,
+		"gemName" : "Galvanic Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 130,
+		"gemName" : "Ice Shot",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 134,
+		"gemName" : "Split Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 138,
+		"gemName" : "Bear Trap",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 139,
+		"gemName" : "Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 142,
+		"gemName" : "Puncture",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 143,
+		"gemName" : "Riposte",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 144,
+		"gemName" : "Shrapnel Ballista",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 121,
+		"gemName" : "Chance to Poison Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 141,
+		"gemName" : "Mirage Archer Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 423,
+		"gemName" : "Momentum Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 146,
+		"gemName" : "Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 147,
+		"gemName" : "Added Cold Damage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 149,
+		"gemName" : "Arrow Nova Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 156,
+		"gemName" : "Blink Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 152,
+		"gemName" : "Lesser Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 31,
+		"gemName" : "Melee Splash Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 159,
+		"gemName" : "Precision",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 160,
+		"gemName" : "Smoke Mine",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 155,
+		"gemName" : "Void Manipulation Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 162,
+		"gemName" : "Whirling Blades",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 167,
+		"gemName" : "Elemental Hit",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 170,
+		"gemName" : "Lightning Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 264,
+		"gemName" : "Lightning Tendrils",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 173,
+		"gemName" : "Rain of Arrows",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 174,
+		"gemName" : "Reave",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 176,
+		"gemName" : "Siege Ballista",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 178,
+		"gemName" : "Toxic Rain",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 181,
+		"gemName" : "Arctic Armour",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 183,
+		"gemName" : "Blood Rage",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 185,
+		"gemName" : "Ensnaring Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 186,
+		"gemName" : "Frenzy",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 187,
+		"gemName" : "Herald of Agony",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 52,
+		"gemName" : "Herald of Ash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 188,
+		"gemName" : "Herald of Ice",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 322,
+		"gemName" : "Herald of Thunder",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 190,
+		"gemName" : "Close Combat Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 59,
+		"gemName" : "Elemental Damage with Attacks Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 337,
+		"gemName" : "Trinity Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 197,
+		"gemName" : "Vicious Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 193,
+		"gemName" : "Faster Attacks Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 342,
+		"gemName" : "Despair",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 198,
+		"gemName" : "Grace",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 200,
+		"gemName" : "Hatred",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 72,
+		"gemName" : "Petrified Blood",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 202,
+		"gemName" : "Poachers Mark",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 206,
+		"gemName" : "Artillery Ballista",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 207,
+		"gemName" : "Blade Flurry",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 209,
+		"gemName" : "Blast Rain",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 210,
+		"gemName" : "Charged Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 219,
+		"gemName" : "Scourge Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 223,
+		"gemName" : "Tornado Shot",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 224,
+		"gemName" : "Wild Strike",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 244,
+		"gemName" : "Tornado",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 214,
+		"gemName" : "Explosive Concoction",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 228,
+		"gemName" : "Critical Strike Affliction Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 231,
+		"gemName" : "Fork Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 97,
+		"gemName" : "Fortify Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 232,
+		"gemName" : "Hypothermia Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 233,
+		"gemName" : "Ice Bite Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 234,
+		"gemName" : "Impale Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 102,
+		"gemName" : "Life Leech Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 236,
+		"gemName" : "Second Wind Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 400,
+		"gemName" : "Summon Chaos Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 109,
+		"gemName" : "Summon Flame Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 242,
+		"gemName" : "Summon Ice Golem",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 401,
+		"gemName" : "Summon Lightning Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 110,
+		"gemName" : "Summon Stone Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 246,
+		"gemName" : "Barrage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 249,
+		"gemName" : "Chain Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 251,
+		"gemName" : "Greater Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 252,
+		"gemName" : "Greater Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 411,
+		"gemName" : "Increased Area of Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 118,
+		"gemName" : "Multistrike Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 413,
+		"gemName" : "Spell Echo Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 255,
+		"gemName" : "Withering Touch Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 172,
+		"gemName" : "Poisonous Concoction",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 225,
+		"gemName" : "Advanced Traps Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 415,
+		"gemName" : "Alchemists Mark",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 424,
+		"gemName" : "Manaforged Arrows Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 132,
+		"gemName" : "Pierce Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 426,
+		"gemName" : "Snipe",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 204,
+		"gemName" : "Snipers Mark",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 2,
+		"className" : "Ranger",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 433,
+		"gemName" : "Returning Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 257,
+		"gemName" : "Blight",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 261,
+		"gemName" : "Freezing Pulse",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 263,
+		"gemName" : "Kinetic Bolt",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 264,
+		"gemName" : "Lightning Tendrils",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 266,
+		"gemName" : "Raise Zombie",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 267,
+		"gemName" : "Rolling Magma",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 270,
+		"gemName" : "Contagion",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 140,
+		"gemName" : "Detonate Dead",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 272,
+		"gemName" : "Flame Wall",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 273,
+		"gemName" : "Frost Bomb",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 275,
+		"gemName" : "Frostblink",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 277,
+		"gemName" : "Orb of Storms",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 281,
+		"gemName" : "Summon Raging Spirit",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 121,
+		"gemName" : "Chance to Poison Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 258,
+		"gemName" : "Elemental Proliferation Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 276,
+		"gemName" : "Infused Channelling Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 278,
+		"gemName" : "Spell Cascade Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 280,
+		"gemName" : "Summon Phantasm Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 282,
+		"gemName" : "Added Lightning Damage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 290,
+		"gemName" : "Bodyswap",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 291,
+		"gemName" : "Clarity",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 284,
+		"gemName" : "Combustion Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 285,
+		"gemName" : "Efficacy Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 292,
+		"gemName" : "Flame Dash",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 287,
+		"gemName" : "Infernal Legion Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 293,
+		"gemName" : "Lightning Warp",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 288,
+		"gemName" : "Minion Damage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 295,
+		"gemName" : "Summon Skeletons",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 289,
+		"gemName" : "Unbound Ailments Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 155,
+		"gemName" : "Void Manipulation Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 296,
+		"gemName" : "Wither",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 297,
+		"gemName" : "Arc",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 300,
+		"gemName" : "Creeping Frost",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 301,
+		"gemName" : "Essence Drain",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 303,
+		"gemName" : "Flesh Offering",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 304,
+		"gemName" : "Ice Nova",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 311,
+		"gemName" : "Scorching Ray",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 440,
+		"gemName" : "Devour Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 180,
+		"gemName" : "Volatile Dead",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 437,
+		"gemName" : "Fresh Meat Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 318,
+		"gemName" : "Arcane Cloak",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 181,
+		"gemName" : "Arctic Armour",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 319,
+		"gemName" : "Brand Recall",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 320,
+		"gemName" : "Cold Snap",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 184,
+		"gemName" : "Desecrate",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 52,
+		"gemName" : "Herald of Ash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 188,
+		"gemName" : "Herald of Ice",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 322,
+		"gemName" : "Herald of Thunder",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 327,
+		"gemName" : "Concentrated Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 328,
+		"gemName" : "Controlled Destruction Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 329,
+		"gemName" : "Elemental Focus Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 330,
+		"gemName" : "Faster Casting Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 333,
+		"gemName" : "Minion Speed Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 336,
+		"gemName" : "Predator Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 337,
+		"gemName" : "Trinity Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 339,
+		"gemName" : "Bane",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 340,
+		"gemName" : "Conductivity",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 341,
+		"gemName" : "Convocation",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 342,
+		"gemName" : "Despair",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 343,
+		"gemName" : "Discipline",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 347,
+		"gemName" : "Flammability",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 348,
+		"gemName" : "Frostbite",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 349,
+		"gemName" : "Malevolence",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 350,
+		"gemName" : "Purity of Elements",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 352,
+		"gemName" : "Spellslinger",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 205,
+		"gemName" : "Temporal Chains",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 354,
+		"gemName" : "Zealotry",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 355,
+		"gemName" : "Armageddon Brand",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 356,
+		"gemName" : "Ball Lightning",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 211,
+		"gemName" : "Cremation",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 362,
+		"gemName" : "Firestorm",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 363,
+		"gemName" : "Flameblast",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 364,
+		"gemName" : "Glacial Cascade",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 366,
+		"gemName" : "Kinetic Blast",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 370,
+		"gemName" : "Raise Spectre",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 372,
+		"gemName" : "Soulrend",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 373,
+		"gemName" : "Stormbind",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 378,
+		"gemName" : "Archmage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 379,
+		"gemName" : "Blasphemy Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 94,
+		"gemName" : "Burning Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 227,
+		"gemName" : "Cold Penetration Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 383,
+		"gemName" : "Energy Leech Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 384,
+		"gemName" : "Feeding Frenzy Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 96,
+		"gemName" : "Fire Penetration Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 388,
+		"gemName" : "Intensify Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 390,
+		"gemName" : "Lightning Penetration Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 391,
+		"gemName" : "Meat Shield Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 238,
+		"gemName" : "Swift Affliction Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 393,
+		"gemName" : "Swiftbrand Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 396,
+		"gemName" : "Hydrosphere",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 399,
+		"gemName" : "Summon Carrion Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 400,
+		"gemName" : "Summon Chaos Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 109,
+		"gemName" : "Summon Flame Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 242,
+		"gemName" : "Summon Ice Golem",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 401,
+		"gemName" : "Summon Lightning Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 110,
+		"gemName" : "Summon Stone Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 403,
+		"gemName" : "Arcanist Brand",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 404,
+		"gemName" : "Bonechill Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 249,
+		"gemName" : "Chain Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 407,
+		"gemName" : "Decay Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 251,
+		"gemName" : "Greater Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 410,
+		"gemName" : "Immolate Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 411,
+		"gemName" : "Increased Area of Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 118,
+		"gemName" : "Multistrike Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 413,
+		"gemName" : "Spell Echo Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 414,
+		"gemName" : "Unleash Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 57,
+		"gemName" : "Cruelty Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 365,
+		"gemName" : "Hexblast",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 357,
+		"gemName" : "Crackling Lance",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 374,
+		"gemName" : "Summon Reaper",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 361,
+		"gemName" : "Eye of Winter",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 402,
+		"gemName" : "Void Sphere",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 395,
+		"gemName" : "Frost Shield",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 397,
+		"gemName" : "Sigil of Power",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 98,
+		"gemName" : "Generosity Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 225,
+		"gemName" : "Advanced Traps Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 418,
+		"gemName" : "Overcharge Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 416,
+		"gemName" : "Galvanic Field",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 417,
+		"gemName" : "Lightning Conduit",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 422,
+		"gemName" : "Hex Bloom Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 298,
+		"gemName" : "Blazing Salvo",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 3,
+		"className" : "Witch",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 438,
+		"gemName" : "Sacrifice Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 2,
+		"gemName" : "Cleave",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 129,
+		"gemName" : "Galvanic Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 7,
+		"gemName" : "Molten Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 8,
+		"gemName" : "Perforate",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 135,
+		"gemName" : "Splitting Steel",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 13,
+		"gemName" : "Ancestral Protector",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 14,
+		"gemName" : "Blood and Sand",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 139,
+		"gemName" : "Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 15,
+		"gemName" : "Decoy Totem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 142,
+		"gemName" : "Puncture",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 21,
+		"gemName" : "Steelskin",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 22,
+		"gemName" : "Vigilant Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 23,
+		"gemName" : "War Banner",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 12,
+		"gemName" : "Ancestral Call Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 121,
+		"gemName" : "Chance to Poison Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 141,
+		"gemName" : "Mirage Archer Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 423,
+		"gemName" : "Momentum Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 132,
+		"gemName" : "Pierce Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 9,
+		"gemName" : "Ruthless Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 146,
+		"gemName" : "Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 24,
+		"gemName" : "Added Fire Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 156,
+		"gemName" : "Blink Arrow",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 34,
+		"gemName" : "Enduring Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 35,
+		"gemName" : "Intimidating Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 36,
+		"gemName" : "Leap Slam",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 152,
+		"gemName" : "Lesser Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 29,
+		"gemName" : "Lifetap Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 30,
+		"gemName" : "Maim Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 31,
+		"gemName" : "Melee Splash Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 159,
+		"gemName" : "Precision",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 38,
+		"gemName" : "Vitality",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 162,
+		"gemName" : "Whirling Blades",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 41,
+		"gemName" : "Earthshatter",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 169,
+		"gemName" : "Lacerate",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 173,
+		"gemName" : "Rain of Arrows",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 175,
+		"gemName" : "Shattering Steel",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 47,
+		"gemName" : "Sweep",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 48,
+		"gemName" : "Ancestral Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 183,
+		"gemName" : "Blood Rage",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 51,
+		"gemName" : "Flesh and Stone",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 186,
+		"gemName" : "Frenzy",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 52,
+		"gemName" : "Herald of Ash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 188,
+		"gemName" : "Herald of Ice",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 322,
+		"gemName" : "Herald of Thunder",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 54,
+		"gemName" : "Seismic Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 193,
+		"gemName" : "Faster Attacks Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 190,
+		"gemName" : "Close Combat Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 59,
+		"gemName" : "Elemental Damage with Attacks Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 63,
+		"gemName" : "Melee Physical Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 64,
+		"gemName" : "Rage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 337,
+		"gemName" : "Trinity Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 197,
+		"gemName" : "Vicious Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 202,
+		"gemName" : "Poachers Mark",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 204,
+		"gemName" : "Snipers Mark",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 69,
+		"gemName" : "Dread Banner",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 198,
+		"gemName" : "Grace",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 200,
+		"gemName" : "Hatred",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 72,
+		"gemName" : "Petrified Blood",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 73,
+		"gemName" : "Pride",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 74,
+		"gemName" : "Punishment",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 76,
+		"gemName" : "Rallying Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 78,
+		"gemName" : "Vulnerability",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 79,
+		"gemName" : "Warlords Mark",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 221,
+		"gemName" : "Spectral Shield Throw",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 82,
+		"gemName" : "Bladestorm",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 209,
+		"gemName" : "Blast Rain",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 210,
+		"gemName" : "Charged Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 212,
+		"gemName" : "Cyclone",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 87,
+		"gemName" : "Ice Crash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 217,
+		"gemName" : "Lancing Steel",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 92,
+		"gemName" : "Arrogance Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 93,
+		"gemName" : "Bloodthirst Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 97,
+		"gemName" : "Fortify Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 232,
+		"gemName" : "Hypothermia Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 234,
+		"gemName" : "Impale Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 102,
+		"gemName" : "Life Leech Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 103,
+		"gemName" : "Pulverise Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 104,
+		"gemName" : "Urgent Orders Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 400,
+		"gemName" : "Summon Chaos Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 109,
+		"gemName" : "Summon Flame Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 242,
+		"gemName" : "Summon Ice Golem",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 401,
+		"gemName" : "Summon Lightning Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 110,
+		"gemName" : "Summon Stone Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 246,
+		"gemName" : "Barrage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 249,
+		"gemName" : "Chain Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 116,
+		"gemName" : "Fist of War Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 251,
+		"gemName" : "Greater Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 252,
+		"gemName" : "Greater Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 411,
+		"gemName" : "Increased Area of Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 118,
+		"gemName" : "Multistrike Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 413,
+		"gemName" : "Spell Echo Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 57,
+		"gemName" : "Cruelty Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 49,
+		"gemName" : "Corrupting Fever",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 50,
+		"gemName" : "Defiance Banner",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 111,
+		"gemName" : "Behead Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 434,
+		"gemName" : "Sadism Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 428,
+		"gemName" : "Corrupting Cry Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 433,
+		"gemName" : "Returning Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 4,
+		"className" : "Duelist",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 429,
+		"gemName" : "Trauma Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 262,
+		"gemName" : "Frostbolt",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 264,
+		"gemName" : "Lightning Tendrils",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 7,
+		"gemName" : "Molten Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 265,
+		"gemName" : "Purifying Flame",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 267,
+		"gemName" : "Rolling Magma",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 11,
+		"gemName" : "Smite",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 13,
+		"gemName" : "Ancestral Protector",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 272,
+		"gemName" : "Flame Wall",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 273,
+		"gemName" : "Frost Bomb",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 275,
+		"gemName" : "Frostblink",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 17,
+		"gemName" : "Holy Flame Totem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 21,
+		"gemName" : "Steelskin",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 279,
+		"gemName" : "Summon Holy Relic",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 22,
+		"gemName" : "Vigilant Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 12,
+		"gemName" : "Ancestral Call Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 256,
+		"gemName" : "Arcane Surge Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 1,
+		"gemName" : "Chance to Bleed Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 276,
+		"gemName" : "Infused Channelling Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 423,
+		"gemName" : "Momentum Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 9,
+		"gemName" : "Ruthless Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 278,
+		"gemName" : "Spell Cascade Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 24,
+		"gemName" : "Added Fire Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 282,
+		"gemName" : "Added Lightning Damage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 291,
+		"gemName" : "Clarity",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 284,
+		"gemName" : "Combustion Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 292,
+		"gemName" : "Flame Dash",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 36,
+		"gemName" : "Leap Slam",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 29,
+		"gemName" : "Lifetap Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 31,
+		"gemName" : "Melee Splash Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 38,
+		"gemName" : "Vitality",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 304,
+		"gemName" : "Ice Nova",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 311,
+		"gemName" : "Scorching Ray",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 44,
+		"gemName" : "Searing Bond",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 45,
+		"gemName" : "Static Strike",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 313,
+		"gemName" : "Storm Brand",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 314,
+		"gemName" : "Storm Burst",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 315,
+		"gemName" : "Storm Call",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 317,
+		"gemName" : "Wintertide Brand",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 318,
+		"gemName" : "Arcane Cloak",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 319,
+		"gemName" : "Brand Recall",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 52,
+		"gemName" : "Herald of Ash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 188,
+		"gemName" : "Herald of Ice",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 53,
+		"gemName" : "Herald of Purity",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 322,
+		"gemName" : "Herald of Thunder",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 326,
+		"gemName" : "Wave of Conviction",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 327,
+		"gemName" : "Concentrated Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 328,
+		"gemName" : "Controlled Destruction Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 59,
+		"gemName" : "Elemental Damage with Attacks Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 329,
+		"gemName" : "Elemental Focus Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 330,
+		"gemName" : "Faster Casting Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 63,
+		"gemName" : "Melee Physical Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 65,
+		"gemName" : "Shockwave Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 340,
+		"gemName" : "Conductivity",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 347,
+		"gemName" : "Flammability",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 348,
+		"gemName" : "Frostbite",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 354,
+		"gemName" : "Zealotry",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 355,
+		"gemName" : "Armageddon Brand",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 84,
+		"gemName" : "Consecrated Path",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 360,
+		"gemName" : "Divine Ire",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 85,
+		"gemName" : "Dominating Blow",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 362,
+		"gemName" : "Firestorm",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 363,
+		"gemName" : "Flameblast",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 87,
+		"gemName" : "Ice Crash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 368,
+		"gemName" : "Penance Brand",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 371,
+		"gemName" : "Shock Nova",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 90,
+		"gemName" : "Shockwave Totem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 373,
+		"gemName" : "Stormbind",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 378,
+		"gemName" : "Archmage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 92,
+		"gemName" : "Arrogance Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 379,
+		"gemName" : "Blasphemy Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 94,
+		"gemName" : "Burning Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 227,
+		"gemName" : "Cold Penetration Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 383,
+		"gemName" : "Energy Leech Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 384,
+		"gemName" : "Feeding Frenzy Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 96,
+		"gemName" : "Fire Penetration Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 97,
+		"gemName" : "Fortify Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 388,
+		"gemName" : "Intensify Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 390,
+		"gemName" : "Lightning Penetration Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 391,
+		"gemName" : "Meat Shield Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 103,
+		"gemName" : "Pulverise Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 393,
+		"gemName" : "Swiftbrand Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 396,
+		"gemName" : "Hydrosphere",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 399,
+		"gemName" : "Summon Carrion Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 400,
+		"gemName" : "Summon Chaos Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 109,
+		"gemName" : "Summon Flame Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 242,
+		"gemName" : "Summon Ice Golem",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 401,
+		"gemName" : "Summon Lightning Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 110,
+		"gemName" : "Summon Stone Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 403,
+		"gemName" : "Arcanist Brand",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 249,
+		"gemName" : "Chain Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 116,
+		"gemName" : "Fist of War Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 251,
+		"gemName" : "Greater Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 409,
+		"gemName" : "Ignite Proliferation Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 411,
+		"gemName" : "Increased Area of Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 117,
+		"gemName" : "Multiple Totems Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 118,
+		"gemName" : "Multistrike Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 413,
+		"gemName" : "Spell Echo Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 414,
+		"gemName" : "Unleash Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 57,
+		"gemName" : "Cruelty Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 39,
+		"gemName" : "Absolution",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 67,
+		"gemName" : "Battlemages Cry",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 402,
+		"gemName" : "Void Sphere",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 395,
+		"gemName" : "Frost Shield",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 397,
+		"gemName" : "Sigil of Power",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 98,
+		"gemName" : "Generosity Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 421,
+		"gemName" : "Frozen Legion",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 298,
+		"gemName" : "Blazing Salvo",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 432,
+		"gemName" : "Guardians Blessing Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 436,
+		"gemName" : "Frigid Bond Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 5,
+		"className" : "Templar",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 439,
+		"gemName" : "Spellblade Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 257,
+		"gemName" : "Blight",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 122,
+		"gemName" : "Cobra Lash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 126,
+		"gemName" : "Ethereal Knives",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 127,
+		"gemName" : "Explosive Trap",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 261,
+		"gemName" : "Freezing Pulse",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 111,
+		"name" : "Enemy at the Gate",
+		"gemid" : 269,
+		"gemName" : "Stormblast Mine",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 138,
+		"gemName" : "Bear Trap",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 270,
+		"gemName" : "Contagion",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 139,
+		"gemName" : "Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 140,
+		"gemName" : "Detonate Dead",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1135,
+		"name" : "Breaking Some Eggs 2",
+		"gemid" : 275,
+		"gemName" : "Frostblink",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 277,
+		"gemName" : "Orb of Storms",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 113,
+		"name" : "Breaking Some Eggs",
+		"gemid" : 143,
+		"gemName" : "Riposte",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 258,
+		"gemName" : "Elemental Proliferation Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 276,
+		"gemName" : "Infused Channelling Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 423,
+		"gemName" : "Momentum Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 132,
+		"gemName" : "Pierce Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 278,
+		"gemName" : "Spell Cascade Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 145,
+		"gemName" : "Swift Assembly Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 112,
+		"name" : "Mercy Mission",
+		"gemid" : 146,
+		"gemName" : "Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 147,
+		"gemName" : "Added Cold Damage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 282,
+		"gemName" : "Added Lightning Damage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 291,
+		"gemName" : "Clarity",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 292,
+		"gemName" : "Flame Dash",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 152,
+		"gemName" : "Lesser Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 153,
+		"gemName" : "Multiple Traps Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 294,
+		"gemName" : "Siphoning Trap",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 160,
+		"gemName" : "Smoke Mine",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 161,
+		"gemName" : "Unearth",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 155,
+		"gemName" : "Void Manipulation Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 162,
+		"gemName" : "Whirling Blades",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 114,
+		"name" : "The Caged Brute",
+		"gemid" : 163,
+		"gemName" : "Withering Step",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 166,
+		"gemName" : "Blade Vortex",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 301,
+		"gemName" : "Essence Drain",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 168,
+		"gemName" : "Fire Trap",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 304,
+		"gemName" : "Ice Nova",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 306,
+		"gemName" : "Icicle Mine",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 308,
+		"gemName" : "Lightning Trap",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 174,
+		"gemName" : "Reave",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 179,
+		"gemName" : "Venom Gyre",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 180,
+		"gemName" : "Volatile Dead",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 318,
+		"gemName" : "Arcane Cloak",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 181,
+		"gemName" : "Arctic Armour",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 182,
+		"gemName" : "Blade Blast",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 183,
+		"gemName" : "Blood Rage",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 320,
+		"gemName" : "Cold Snap",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 187,
+		"gemName" : "Herald of Agony",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 52,
+		"gemName" : "Herald of Ash",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 188,
+		"gemName" : "Herald of Ice",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 322,
+		"gemName" : "Herald of Thunder",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 324,
+		"gemName" : "Summon Skitterbots",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 1145,
+		"name" : "The Caged Brute 2",
+		"gemid" : 193,
+		"gemName" : "Faster Attacks Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 192,
+		"gemName" : "Deadly Ailments Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 329,
+		"gemName" : "Elemental Focus Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 330,
+		"gemName" : "Faster Casting Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 63,
+		"gemName" : "Melee Physical Damage Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 194,
+		"gemName" : "Nightblade Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 196,
+		"gemName" : "Trap and Mine Damage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 338,
+		"gemName" : "Assassins Mark",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 339,
+		"gemName" : "Bane",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 340,
+		"gemName" : "Conductivity",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 342,
+		"gemName" : "Despair",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 347,
+		"gemName" : "Flammability",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 348,
+		"gemName" : "Frostbite",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 200,
+		"gemName" : "Hatred",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 349,
+		"gemName" : "Malevolence",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 201,
+		"gemName" : "Plague Bearer",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 205,
+		"gemName" : "Temporal Chains",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 311,
+		"name" : "Lost in Love",
+		"gemid" : 353,
+		"gemName" : "Wrath",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 244,
+		"gemName" : "Tornado",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 356,
+		"gemName" : "Ball Lightning",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 207,
+		"gemName" : "Blade Flurry",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 208,
+		"gemName" : "Bladefall",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 210,
+		"gemName" : "Charged Dash",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 211,
+		"gemName" : "Cremation",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 215,
+		"gemName" : "Flamethrower Trap",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 367,
+		"gemName" : "Lightning Spire Trap",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 218,
+		"gemName" : "Pestilent Strike",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 369,
+		"gemName" : "Pyroclast Mine",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 220,
+		"gemName" : "Seismic Trap",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 372,
+		"gemName" : "Soulrend",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 378,
+		"gemName" : "Archmage Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 380,
+		"gemName" : "Charged Mines Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 226,
+		"gemName" : "Charged Traps Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 227,
+		"gemName" : "Cold Penetration Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 228,
+		"gemName" : "Critical Strike Affliction Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 383,
+		"gemName" : "Energy Leech Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 229,
+		"gemName" : "Faster Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 385,
+		"gemName" : "High-Impact Mine Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 233,
+		"gemName" : "Ice Bite Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 387,
+		"gemName" : "Innervate Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 390,
+		"gemName" : "Lightning Penetration Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 236,
+		"gemName" : "Second Wind Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 238,
+		"gemName" : "Swift Affliction Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 396,
+		"gemName" : "Hydrosphere",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 400,
+		"gemName" : "Summon Chaos Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 109,
+		"gemName" : "Summon Flame Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 242,
+		"gemName" : "Summon Ice Golem",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 401,
+		"gemName" : "Summon Lightning Golem",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 110,
+		"gemName" : "Summon Stone Golem",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 246,
+		"gemName" : "Barrage Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 404,
+		"gemName" : "Bonechill Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 249,
+		"gemName" : "Chain Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 250,
+		"gemName" : "Cluster Traps Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 251,
+		"gemName" : "Greater Multiple Projectiles Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 252,
+		"gemName" : "Greater Volley Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 411,
+		"gemName" : "Increased Area of Effect Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 412,
+		"gemName" : "Minefield Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 118,
+		"gemName" : "Multistrike Support",
+		"Color" : "Red"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 413,
+		"gemName" : "Spell Echo Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 414,
+		"gemName" : "Unleash Support",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 254,
+		"gemName" : "Vile Toxins Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 412,
+		"name" : "The Eternal Nightmare",
+		"gemid" : 255,
+		"gemName" : "Withering Touch Support",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 312,
+		"name" : "Sever the Right Hand",
+		"gemid" : 365,
+		"gemName" : "Hexblast",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 239,
+		"gemName" : "Ambush",
+		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 402,
+		"gemName" : "Void Sphere",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 411,
+		"name" : "Breaking the Seal",
+		"gemid" : 395,
+		"gemName" : "Frost Shield",
+		"Color" : "#1E90FF"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 313,
+		"name" : "A Fixture of Fate",
+		"gemid" : 225,
+		"gemName" : "Advanced Traps Support",
+		"Color" : "#32CD32"
+	}
+]
