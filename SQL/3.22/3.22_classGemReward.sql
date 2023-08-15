@@ -2,7 +2,7 @@
 -- Query: SELECT * FROM classGemReward
 LIMIT 0, 1000
 
--- Date: 2023-08-14 08:55
+-- Date: 2023-08-15 12:29
 */
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (0,'Scion',111,'Enemy at the Gate',264,'Lightning Tendrils','#1E90FF');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (0,'Scion',111,'Enemy at the Gate',7,'Molten Strike','Red');
@@ -458,7 +458,6 @@ INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (4,'Duelist',212,'Sharp and Cruel',59,'Elemental Damage with Attacks Support','Red');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (4,'Duelist',212,'Sharp and Cruel',63,'Melee Physical Damage Support','Red');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (4,'Duelist',212,'Sharp and Cruel',64,'Rage Support','Red');
-INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (4,'Duelist',212,'Sharp and Cruel',337,'Trinity Support','#1E90FF');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (4,'Duelist',212,'Sharp and Cruel',197,'Vicious Projectiles Support','#32CD32');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (4,'Duelist',211,'Intruders in Black',202,'Poachers Mark','#32CD32');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (4,'Duelist',113,'Breaking Some Eggs',204,'Snipers Mark','#32CD32');
@@ -669,6 +668,7 @@ INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (6,'Shadow',211,'Intruders in Black',322,'Herald of Thunder','#1E90FF');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (6,'Shadow',211,'Intruders in Black',324,'Summon Skitterbots','#1E90FF');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (6,'Shadow',1145,'The Caged Brute 2',193,'Faster Attacks Support','#32CD32');
+INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (6,'Shadow',212,'Sharp and Cruel',337,'Trinity Support','#1E90FF');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (6,'Shadow',212,'Sharp and Cruel',192,'Deadly Ailments Support','#32CD32');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (6,'Shadow',212,'Sharp and Cruel',329,'Elemental Focus Support','#1E90FF');
 INSERT INTO `` (`classid`,`className`,`questid`,`name`,`gemid`,`gemName`,`Color`) VALUES (6,'Shadow',212,'Sharp and Cruel',330,'Faster Casting Support','#1E90FF');

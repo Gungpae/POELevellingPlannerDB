@@ -2,7 +2,7 @@
 -- Query: SELECT * FROM classGemsVendor
 LIMIT 0, 1000
 
--- Date: 2023-08-14 08:54
+-- Date: 2023-08-15 12:29
 */
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',111,'Enemy at the Gate',257,'Blight','#1E90FF',1,'Scroll of Wisdom');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',111,'Enemy at the Gate',119,'Burning Arrow','#32CD32',1,'Scroll of Wisdom');
@@ -490,6 +490,9 @@ INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (3,'Witch',115,'The Sirens Cadence',298,'Blazing Salvo','#1E90FF',1,'Orb of Transmutation');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',115,'The Sirens Cadence',298,'Blazing Salvo','#1E90FF',1,'Orb of Transmutation');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (6,'Shadow',115,'The Sirens Cadence',298,'Blazing Salvo','#1E90FF',1,'Orb of Transmutation');
+INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (6,'Shadow',115,'The Sirens Cadence',165,'Blade Trap','#32CD32',1,'Orb of Transmutation');
+INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (2,'Ranger',115,'The Sirens Cadence',165,'Blade Trap','#32CD32',1,'Orb of Transmutation');
+INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',115,'The Sirens Cadence',165,'Blade Trap','#32CD32',1,'Orb of Transmutation');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',211,'Intruders in Black',181,'Arctic Armour','#32CD32',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',211,'Intruders in Black',186,'Frenzy','#32CD32',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',211,'Intruders in Black',52,'Herald of Ash','Red',1,'Orb of Alteration');
@@ -581,6 +584,7 @@ INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (6,'Shadow',211,'Intruders in Black',338,'Assassins Mark','#1E90FF',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (2,'Ranger',211,'Intruders in Black',79,'Warlords Mark','Red',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (6,'Shadow',211,'Intruders in Black',202,'Poachers Mark','#32CD32',1,'Orb of Alteration');
+INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',211,'Intruders in Black',184,'Desecrate','#32CD32',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',212,'Sharp and Cruel',191,'Culling Strike Support','#32CD32',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',212,'Sharp and Cruel',63,'Melee Physical Damage Support','Red',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (1,'Marauder',212,'Sharp and Cruel',191,'Culling Strike Support','#32CD32',1,'Orb of Alteration');
@@ -732,6 +736,7 @@ INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (1,'Marauder',212,'Sharp and Cruel',430,'Volatility Support','Red',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (4,'Duelist',212,'Sharp and Cruel',430,'Volatility Support','Red',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',212,'Sharp and Cruel',430,'Volatility Support','Red',1,'Orb of Alteration');
+INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (6,'Shadow',212,'Sharp and Cruel',337,'Trinity Support','#1E90FF',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',311,'Lost in Love',73,'Pride','Red',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (0,'Scion',311,'Lost in Love',350,'Purity of Elements','#1E90FF',1,'Orb of Alteration');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (1,'Marauder',311,'Lost in Love',73,'Pride','Red',1,'Orb of Alteration');
@@ -999,8 +1004,3 @@ INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (4,'Duelist',312,'Sever the Right Hand',223,'Tornado Shot','#32CD32',1,'Orb of Chance');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',312,'Sever the Right Hand',221,'Spectral Shield Throw','#32CD32',1,'Orb of Chance');
 INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',312,'Sever the Right Hand',80,'Ancestral Warchief','Red',1,'Orb of Alteration');
-INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',312,'Sever the Right Hand',355,'Armageddon Brand','#1E90FF',1,'Orb of Chance');
-INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',312,'Sever the Right Hand',356,'Ball Lightning','#1E90FF',1,'Orb of Chance');
-INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',312,'Sever the Right Hand',210,'Charged Dash','#32CD32',1,'Orb of Chance');
-INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',312,'Sever the Right Hand',84,'Consecrated Path','Red',1,'Orb of Alteration');
-INSERT INTO `` (`classid`,`classname`,`questid`,`name`,`gemid`,`gemName`,`color`,`Cost`,`Currency`) VALUES (5,'Templar',312,'Sever the Right Hand',211,'Cremation','#32CD32',1,'Orb of Chance');
