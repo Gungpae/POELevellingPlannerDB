@@ -453,7 +453,6 @@ classid,className,questid,name,gemid,gemName,Color
 4,Duelist,212,"Sharp and Cruel",59,"Elemental Damage with Attacks Support",Red
 4,Duelist,212,"Sharp and Cruel",63,"Melee Physical Damage Support",Red
 4,Duelist,212,"Sharp and Cruel",64,"Rage Support",Red
-4,Duelist,212,"Sharp and Cruel",337,"Trinity Support",#1E90FF
 4,Duelist,212,"Sharp and Cruel",197,"Vicious Projectiles Support",#32CD32
 4,Duelist,211,"Intruders in Black",202,"Poachers Mark",#32CD32
 4,Duelist,113,"Breaking Some Eggs",204,"Snipers Mark",#32CD32
@@ -664,6 +663,7 @@ classid,className,questid,name,gemid,gemName,Color
 6,Shadow,211,"Intruders in Black",322,"Herald of Thunder",#1E90FF
 6,Shadow,211,"Intruders in Black",324,"Summon Skitterbots",#1E90FF
 6,Shadow,1145,"The Caged Brute 2",193,"Faster Attacks Support",#32CD32
+6,Shadow,212,"Sharp and Cruel",337,"Trinity Support",#1E90FF
 6,Shadow,212,"Sharp and Cruel",192,"Deadly Ailments Support",#32CD32
 6,Shadow,212,"Sharp and Cruel",329,"Elemental Focus Support",#1E90FF
 6,Shadow,212,"Sharp and Cruel",330,"Faster Casting Support",#1E90FF
