@@ -5346,6 +5346,39 @@
 		"Currency" : "Orb of Transmutation"
 	},
 	{
+		"classid" : 6,
+		"classname" : "Shadow",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 165,
+		"gemName" : "Blade Trap",
+		"color" : "#32CD32",
+		"Cost" : 1,
+		"Currency" : "Orb of Transmutation"
+	},
+	{
+		"classid" : 2,
+		"classname" : "Ranger",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 165,
+		"gemName" : "Blade Trap",
+		"color" : "#32CD32",
+		"Cost" : 1,
+		"Currency" : "Orb of Transmutation"
+	},
+	{
+		"classid" : 0,
+		"classname" : "Scion",
+		"questid" : 115,
+		"name" : "The Sirens Cadence",
+		"gemid" : 165,
+		"gemName" : "Blade Trap",
+		"color" : "#32CD32",
+		"Cost" : 1,
+		"Currency" : "Orb of Transmutation"
+	},
+	{
 		"classid" : 0,
 		"classname" : "Scion",
 		"questid" : 211,
@@ -6347,6 +6380,17 @@
 		"Currency" : "Orb of Alteration"
 	},
 	{
+		"classid" : 5,
+		"classname" : "Templar",
+		"questid" : 211,
+		"name" : "Intruders in Black",
+		"gemid" : 184,
+		"gemName" : "Desecrate",
+		"color" : "#32CD32",
+		"Cost" : 1,
+		"Currency" : "Orb of Alteration"
+	},
+	{
 		"classid" : 0,
 		"classname" : "Scion",
 		"questid" : 212,
@@ -8004,6 +8048,17 @@
 		"gemid" : 430,
 		"gemName" : "Volatility Support",
 		"color" : "Red",
+		"Cost" : 1,
+		"Currency" : "Orb of Alteration"
+	},
+	{
+		"classid" : 6,
+		"classname" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 337,
+		"gemName" : "Trinity Support",
+		"color" : "#1E90FF",
 		"Cost" : 1,
 		"Currency" : "Orb of Alteration"
 	},
@@ -10943,60 +10998,5 @@
 		"color" : "Red",
 		"Cost" : 1,
 		"Currency" : "Orb of Alteration"
-	},
-	{
-		"classid" : 5,
-		"classname" : "Templar",
-		"questid" : 312,
-		"name" : "Sever the Right Hand",
-		"gemid" : 355,
-		"gemName" : "Armageddon Brand",
-		"color" : "#1E90FF",
-		"Cost" : 1,
-		"Currency" : "Orb of Chance"
-	},
-	{
-		"classid" : 5,
-		"classname" : "Templar",
-		"questid" : 312,
-		"name" : "Sever the Right Hand",
-		"gemid" : 356,
-		"gemName" : "Ball Lightning",
-		"color" : "#1E90FF",
-		"Cost" : 1,
-		"Currency" : "Orb of Chance"
-	},
-	{
-		"classid" : 5,
-		"classname" : "Templar",
-		"questid" : 312,
-		"name" : "Sever the Right Hand",
-		"gemid" : 210,
-		"gemName" : "Charged Dash",
-		"color" : "#32CD32",
-		"Cost" : 1,
-		"Currency" : "Orb of Chance"
-	},
-	{
-		"classid" : 5,
-		"classname" : "Templar",
-		"questid" : 312,
-		"name" : "Sever the Right Hand",
-		"gemid" : 84,
-		"gemName" : "Consecrated Path",
-		"color" : "Red",
-		"Cost" : 1,
-		"Currency" : "Orb of Alteration"
-	},
-	{
-		"classid" : 5,
-		"classname" : "Templar",
-		"questid" : 312,
-		"name" : "Sever the Right Hand",
-		"gemid" : 211,
-		"gemName" : "Cremation",
-		"color" : "#32CD32",
-		"Cost" : 1,
-		"Currency" : "Orb of Chance"
 	}
 ]

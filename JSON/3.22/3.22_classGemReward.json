@@ -4090,15 +4090,6 @@
 		"className" : "Duelist",
 		"questid" : 212,
 		"name" : "Sharp and Cruel",
-		"gemid" : 337,
-		"gemName" : "Trinity Support",
-		"Color" : "#1E90FF"
-	},
-	{
-		"classid" : 4,
-		"className" : "Duelist",
-		"questid" : 212,
-		"name" : "Sharp and Cruel",
 		"gemid" : 197,
 		"gemName" : "Vicious Projectiles Support",
 		"Color" : "#32CD32"
@@ -5983,6 +5974,15 @@
 		"gemid" : 193,
 		"gemName" : "Faster Attacks Support",
 		"Color" : "#32CD32"
+	},
+	{
+		"classid" : 6,
+		"className" : "Shadow",
+		"questid" : 212,
+		"name" : "Sharp and Cruel",
+		"gemid" : 337,
+		"gemName" : "Trinity Support",
+		"Color" : "#1E90FF"
 	},
 	{
 		"classid" : 6,
